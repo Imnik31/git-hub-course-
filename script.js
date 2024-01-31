@@ -8,4 +8,5 @@ const name= nikhil
 
 function newfeat(){
     console.log("new feat added");
+    console.log("new feat added111");
 }
